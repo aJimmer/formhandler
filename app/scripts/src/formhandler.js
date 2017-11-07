@@ -1,7 +1,5 @@
 import $ from 'jquery';
 
-let formhandler;
-
 class Formhandler {
   constructor(selector) {
     if (!selector) {
